@@ -1,4 +1,4 @@
-#### ID POKEMON: 85 ####
+
 
 # Examen Final
 ## Programación Web II
@@ -21,7 +21,7 @@ Estás postulando para un puesto de desarrollador **Front-end** en una empresa q
 |  `<id de pokemon asignado> `|
 
 #### Documentación de la API de Pokemon:
-`GET https://pokeapi.co/api/v2/pokemon/{id o nombre de pokemon}`
+`GET https://pokeapi.co/api/v2/pokemon/{85}`
 
 ##### Pokemon (Tipo)
 
