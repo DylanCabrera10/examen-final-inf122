@@ -21,7 +21,37 @@ Estás postulando para un puesto de desarrollador **Front-end** en una empresa q
 |  `<85> `|
 
 #### Documentación de la API de Pokemon:
-`GET https://pokeapi.co/api/v2/pokemon/{85}`
+`GET /* src/app/globals.css */
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.pokemonHeader {
+  position: relative;
+  text-align: center;
+  padding: 20px;
+}
+
+.pokemonHeader h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  color: #393939;
+  margin: 0;
+}
+
+.pokemonHeader img {
+  width: 144px;
+  height: 144px; /* Ajusta la altura según tus necesidades */
+  margin-top: 10px; /* Ajusta el margen superior según tus necesidades */
+  position: absolute;
+  top: 24px;
+  left: 20px;
+}
+`
 
 ##### Pokemon (Tipo)
 
